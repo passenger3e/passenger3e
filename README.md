@@ -4,14 +4,11 @@
   <h3 align="center"> Hi there, I’m Ali. 👋</h3>
   <h2 align="center">
 I'm a Learner 💻
-</h2> 
+  </h2>
 
 </br>
-
-
 ### 
 <!--🤝 Connect with me:--->
-
 <a href="https://www.linkedin.com/in/avara-01/"><img align="left" style="margin-right: 10px;" src="https://raw.githubusercontent.com/passenger3e/images/main/linkedin.svg" alt="Ali V. | LinkedIn" width="25px"/></a>
 <!--
 <a href="https://www.instagram.com/"><img align="left" style="margin-right: 10px;" src="https://raw.githubusercontent.com/passenger3e/images/main/instagram.svg" alt="Ali V. | Instagram" width="25px"/></a>
@@ -37,11 +34,13 @@ I'm a Learner 💻
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&color=blue)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 ![](https://img.shields.io/badge/Tools-intellij-informational?style=?style=for-the-badge&logo=intellijidea&color=000000)
+
 ## 📈 GitHub Stats
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=passenger3e)](https://github.com/passenger3e)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=passenger3e&layout=compact)](https://github.com/passenger3e)
 
+![](https://komarev.com/ghpvc/?username=passenger3e&style=flat&color=blueviolet)
 
 <!---
 passenger3e/passenger3e is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
