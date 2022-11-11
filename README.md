@@ -7,7 +7,6 @@ I'm a Learner 💻
   </h2>
 
 </br>
-### 
 <!--🤝 Connect with me:--->
 <a href="https://www.linkedin.com/in/avara-01/"><img align="left" style="margin-right: 10px;" src="https://raw.githubusercontent.com/passenger3e/images/main/linkedin.svg" alt="Ali V. | LinkedIn" width="25px"/></a>
 <!--
@@ -22,8 +21,6 @@ I'm a Learner 💻
 --->
 
 ## 🔭 I'm currently working on
-
-
 ## 🌱 I'm currently learning
 
 - ☕ Java
